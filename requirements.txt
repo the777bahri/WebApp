@@ -1,0 +1,6 @@
+openai
+pandas
+azure-search-documents
+azure-core
+Flask==3.0.3
+requests
