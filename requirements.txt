@@ -2,5 +2,5 @@ openai
 pandas
 azure-search-documents
 azure-core
-Flask==3.0.3
+Flask==3.1.0
 requests
